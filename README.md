@@ -1,9 +1,9 @@
 # Stay Hungry, Stay Foolish
 **Languages:**  
-<code><img height="40" src="https://www.lwhttpd.org/assets/icons/cpp.png"></code>
-<code><img height="40" src="https://www.lwhttpd.org/assets/icons/java.png"></code>
-<code><img height="40" src="https://www.lwhttpd.org/assets/icons/python.png"></code>
-<code><img height="40" src="https://www.lwhttpd.org/assets/icons/linux.png"></code>
+<code><img height="40" src="/assets/icons/cpp.png"></code>
+<code><img height="40" src="/assets/icons/java.png"></code>
+<code><img height="40" src="/assets/icons/python.png"></code>
+<code><img height="40" src="/assets/icons/linux.png"></code>
 
 #### Top Repositories
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SandroDickens&count_private=true&show_icons=true)](https://github.com/SandroDickens/lwhttpd)  
