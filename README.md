@@ -6,7 +6,7 @@
 <code><img height="40" src="/assets/icons/linux.png"></code>
 
 #### Top Repositories
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SandroDickens&count_private=true&show_icons=true)](https://github.com/SandroDickens/lwhttpd)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SandroDickens&layout=compact)](https://github.com/SandroDickens/lwhttpd)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SandroDickens&repo=lwhttpd)](https://github.com/SandroDickens/lwhttpd)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SandroDickens&repo=log4cpp)](https://github.com/SandroDickens/log4cpp)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lwhttpd&count_private=true&show_icons=true)](https://github.com/lwhttpd/lwhttpd)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lwhttpd&layout=compact)](https://github.com/lwhttpd/lwhttpd)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lwhttpd&repo=lwhttpd)](https://github.com/lwhttpd/lwhttpd)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lwhttpd&repo=log4cpp)](https://github.com/lwhttpd/log4cpp)  
