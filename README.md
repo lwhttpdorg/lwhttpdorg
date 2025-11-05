@@ -10,5 +10,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lwhttpdorg&layout=compact)](https://github.com/lwhttpdorg/log4cpp)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lwhttpdorg&repo=log4cpp)](https://github.com/lwhttpdorg/log4cpp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lwhttpdorg&repo=log4c)](https://github.com/lwhttpdorg/log4c)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lwhttpdorg&repo=lwhttpd)](https://github.com/lwhttpdorg/lwhttpd)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lwhttpdorg&repo=janus)](https://github.com/lwhttpdorg/janus)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lwhttpdorg&repo=openwrt)](https://github.com/lwhttpdorg/openwrt)
